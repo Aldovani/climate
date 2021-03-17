@@ -67,6 +67,7 @@ export default function Home() {
       <View style={styles.container}>
         <Text style={{ fontSize: 17, fontStyle: 'italic' }}>Carregando dados .... </Text>
       </View>
+      
     )
 
 
